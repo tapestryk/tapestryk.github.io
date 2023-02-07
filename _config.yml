@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+# Welcome to Tapestry!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Tapestry"
 description              : "An amazing website."
 url                      : # "https://tapestryk.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
